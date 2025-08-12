@@ -1,0 +1,19 @@
+{
+  "name": "task-tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tasks": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^14.0.0",
+    "uuid": "^11.1.0"
+  }
+}
