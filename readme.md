@@ -13,5 +13,8 @@ https://roadmap.sh/projects/task-tracker -> SOLUTION: https://github.com/Viniciu
 ### GitHub Activity:
 https://roadmap.sh/projects/github-user-activity -> SOLUTION: https://github.com/Vinicius-Aquino99/backend-roadmap/blob/master/github-activity-cli/cli.js
 
+### GitHub Activity:
+https://roadmap.sh/projects/github-user-activity -> SOLUTION: https://github.com/Vinicius-Aquino99/backend-roadmap/blob/master/github-activity-cli/cli.js
+
 ### Expense Tracker:
 https://roadmap.sh/projects/expense-tracker -> SOLUTION: https://github.com/Vinicius-Aquino99/backend-roadmap/blob/master/expense-tracker/cli.js
